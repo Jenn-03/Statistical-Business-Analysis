@@ -1,0 +1,34 @@
+======================================================================
+HYPOTHESIS TEST 1 : ONE SAMPLE T-TEST
+======================================================================
+H0 : Mean Total Sales = 150000
+H1 : Mean Total Sales ≠ 150000
+
+T Statistic : -2.6307143066249163
+P-value : 0.009882441027151238
+Result : Reject H0
+The average Total Sales is significantly different from 150000.
+
+
+
+======================================================================
+HYPOTHESIS TEST 2 : INDEPENDENT T-TEST
+======================================================================
+H0 : Mean sales of North and South are equal.
+H1 : Mean sales of North and South are different.
+
+T Statistic : 0.12990909486062338
+P-value : 0.8971521399586031
+Result : Fail to Reject H0
+
+
+
+======================================================================
+HYPOTHESIS TEST 3 : ONE-WAY ANOVA
+======================================================================
+H0 : Mean sales are equal across all regions.
+H1 : At least one region has different mean sales.
+
+F Statistic : 2.164363429897842
+P-value : 0.09723678084980039
+Result : Fail to Reject H0
